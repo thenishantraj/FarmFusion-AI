@@ -1,5 +1,5 @@
 
-# FarmFusion AI - Crop and Fertilizer Recommendation System
+# FarmFusion-AI - Crop and Fertilizer Recommendation System
 
 ## Project Overview
 FarmFusion AI is a machine learning-based recommendation system that suggests the best crops to grow and the most suitable fertilizers based on soil conditions and environmental factors. This project aims to help farmers make data-driven decisions to optimize yield and improve agricultural sustainability.
