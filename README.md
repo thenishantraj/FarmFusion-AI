@@ -1,4 +1,4 @@
-```markdown
+
 # FarmFusion AI - Crop and Fertilizer Recommendation System
 
 ## Project Overview
